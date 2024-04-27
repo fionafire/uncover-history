@@ -1,1 +1,45 @@
-
+{
+    "items": [
+        {
+            "type": "Book",
+            "id": "1",
+            "title": "Hunger Games",
+            "author": "Suzanne Collins",
+            "copyright": "2010"
+        },
+        {
+            "type": "Book",
+            "id": "2",
+            "title": "Life of Pi",
+            "author": "Yann Martel",
+            "copyright": "2001"
+        },
+        {
+            "type": "Book",
+            "id": "3",
+            "title": "first person plural: my life as a multiple",
+            "author": "Cameron West",
+            "copyright": "1999"       
+        }
+    ],
+    "people": [
+        {
+            "type": "celebrity",
+            "id": "1",
+            "name": "Dolly Parton",
+            "occupation": "singer/songwriter"
+        },
+        {
+            "type": "politician",
+            "id": "2",
+            "name": "Ron Wyden",
+            "occupation": "US Senator"
+        },
+        {
+            "type": "criminal",
+            "id": "3",
+            "name": "Mark Whalberg",
+            "occupation": "actor"
+        }
+    ]
+}
