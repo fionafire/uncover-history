@@ -68,7 +68,7 @@
       "description": "actor",
       "itemId": "1"
     }
-  ],
+  ]
   "collection": {
     "@context": "https://schema.org/",
     "@type": "Collection",
