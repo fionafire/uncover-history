@@ -3,7 +3,7 @@
     {
       "@context": "https://schema.org",
       "@type": "CreativeWork",
-      "id": "6",
+      "id": "5",
       "name": "Soccer ball",
       "description": "Item for football playing"
     },
@@ -31,7 +31,7 @@
      {
       "@context": "https://schema.org",
       "@type": "Book",
-      "id": "5",
+      "id": "6",
       "name": "Life of Pi",
       "description": "Item for recreational reading"
      },
